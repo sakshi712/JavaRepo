@@ -1,1 +1,2 @@
-This is first git bash document
+This is first git bash document.
+Modifying doc1 content at central repo
